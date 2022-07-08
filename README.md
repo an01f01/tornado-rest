@@ -5,4 +5,5 @@ This is a sample application for creating a Tornado REST API that interacts with
 
 For the full tutorial that accompanies this repository look into the following link:
 
+https://swiftuser.hashnode.dev/how-to-use-the-queries-library-with-tornado-in-python
 
